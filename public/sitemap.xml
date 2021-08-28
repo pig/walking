@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://pigwalking.csie.io/categories/</loc>
+    <loc>https://pig.github.io/walking/categories/</loc>
   </url><url>
-    <loc>http://pigwalking.csie.io/</loc>
+    <loc>https://pig.github.io/walking/</loc>
   </url><url>
-    <loc>http://pigwalking.csie.io/tags/</loc>
+    <loc>https://pig.github.io/walking/tags/</loc>
   </url>
 </urlset>
