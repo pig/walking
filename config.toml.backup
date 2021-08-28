@@ -1,0 +1,4 @@
+baseURL = 'http://pigwalking.csie.io/'
+languageCode = 'en-us'
+title = 'pigwalking'
+theme = "ananke"

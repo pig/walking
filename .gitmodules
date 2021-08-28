@@ -1,0 +1,9 @@
+[submodule "themes/cupper-hugo-theme"]
+	path = themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
