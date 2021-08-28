@@ -5,9 +5,19 @@
     <link>https://pig.github.io/walking/tags/</link>
     <description>Recent content in Tags on pigwalking</description>
     <image>
-      <url>https://pig.github.io/walking/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://pig.github.io/walking/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://pig.github.io/android-chrome-512x512.png</url>
+      <link>https://pig.github.io/android-chrome-512x512.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://pig.github.io/walking/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://pig.github.io/walking/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first</title>
+      <link>https://pig.github.io/walking/tags/first/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://pig.github.io/walking/tags/first/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
